@@ -7,7 +7,7 @@ cmd=[
     'CUDA_VISIBLE_DEVICES={} '+'python main.py --dataset_type MNIST-test',
     'CUDA_VISIBLE_DEVICES={} '+'python main.py --dataset_type USPS',
     'CUDA_VISIBLE_DEVICES={} '+'python main.py --dataset_type Fashion-MNIST',
-    'CUDA_VISIBLE_DEVICES={} '+'python main.py --dataset_type Reuters-10k',
+    #'CUDA_VISIBLE_DEVICES={} '+'python main.py --dataset_type Reuters-10k',
     'CUDA_VISIBLE_DEVICES={} '+'python main.py --dataset_type HAR',
     'CUDA_VISIBLE_DEVICES={} '+'python main.py --dataset_type Pendigits',
 ]
